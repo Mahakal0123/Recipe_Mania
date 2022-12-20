@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recipe_Mania/static/css/main.05dc9616.css",
+    "main.js": "/Recipe_Mania/static/js/main.3019b30d.js",
+    "static/js/787.13aee4be.chunk.js": "/Recipe_Mania/static/js/787.13aee4be.chunk.js",
+    "index.html": "/Recipe_Mania/index.html",
+    "main.05dc9616.css.map": "/Recipe_Mania/static/css/main.05dc9616.css.map",
+    "main.3019b30d.js.map": "/Recipe_Mania/static/js/main.3019b30d.js.map",
+    "787.13aee4be.chunk.js.map": "/Recipe_Mania/static/js/787.13aee4be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05dc9616.css",
+    "static/js/main.3019b30d.js"
+  ]
+}
